@@ -1,6 +1,6 @@
 ### 🧩 30 Coding Interview Patterns
 
-1. Two Pointers
+1. Two Pointers  --
 2. Fast and Slow Pointers
 3. Sliding Window
 4. Intervals
